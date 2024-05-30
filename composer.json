@@ -1,0 +1,13 @@
+{
+    "name": "hp/airtech",
+    "description": "website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Airtech\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
